@@ -1,7 +1,8 @@
 # Seja Bem Vindo 
 
-- 🔭 Hoje eu trabalho com Elétrica
-- 🌱 Estudando Desenvolvimento de Web Full Stack e Ciências da Computação
+- 🔭 Hoje sou estudante
+- 🌱 Curso Ciências da Computação
+- 📔 Estudando Desenvolvimento de Web Full Stack
 - 💬 "Vejas as coisas de maneira diferente, deixe sua marca..."
 - ⚡ Entusiasta em Tecnologia e Games
 
