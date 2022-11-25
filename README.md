@@ -1,4 +1,5 @@
-# Seja Bem Vindo 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Douglas Rosso</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasrosso&color=yellow" alt="Profile views" /> </p>
 
 <a href="https://www.instagram.com/rosso_douglx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-martignago-rosso-529588127" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
