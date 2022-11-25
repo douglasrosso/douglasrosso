@@ -13,11 +13,11 @@
   <img align="center" alt="Douglas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
-- 🔭 Hoje sou estudante
-- 🌱 Curso Ciências da Computação
-- 📔 Estudando Desenvolvimento de Web Full Stack
-- 💬 "Vejas as coisas de maneira diferente, deixe sua marca..."
-- ⚡ Entusiasta em Tecnologia e Games
+- 🔭 Today I'm a student.
+- 🌱 I'm from the Computer Science Course.
+- 📔 Studying Full Stack Web Development.
+- 💬 "See things differently, make your mark..."
+- ⚡ Enthusiast in Technology and Games.
 
   ##
 
