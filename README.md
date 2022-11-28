@@ -1,6 +1,8 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/douglasrosso/9d3f9530889c203b5eb2e5e821fbae76/raw/7f6b7b22c08c74bc72b41d1cecf29e3cd2696627/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Douglas Rosso</h1>
-<p align="left"> <img align="left" src="https://komarev.com/ghpvc/?username=douglasrosso&color=red" alt="Profile views" /> </p>
+<div align="left">
+<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Douglas Rosso</h1>
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=douglasrosso&color=red" alt="Profile views" /> </p>
+<div>
 
 <a href="https://www.instagram.com/rosso_douglx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-martignago-rosso-529588127" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -19,7 +21,7 @@
 - 📔 Studying Full Stack Web Development.
 - 💬 "See things differently, make your mark..."
 - ⚡ Enthusiast in Technology and Games.
-
+  
   ##
 
 <div align="left">
