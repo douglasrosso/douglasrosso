@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/douglasrosso/9d3f9530889c203b5eb2e5e821fbae76/raw/7f6b7b22c08c74bc72b41d1cecf29e3cd2696627/githubcard.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/douglasrosso/9d3f9530889c203b5eb2e5e821fbae76/raw/7f6b7b22c08c74bc72b41d1cecf29e3cd2696627/githubcard.svg"/>
 <div align="left">
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Douglas Rosso</h1>
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=douglasrosso&color=red" alt="Profile views" /> </p>
