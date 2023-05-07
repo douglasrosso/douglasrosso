@@ -22,11 +22,16 @@
   <img align="center" alt="devicon-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
+  ##
+  
+  ```
 - 🔭 Today I'm a student.
-- 🌱 I'm from the Computer Science Course.
+- 🌱 I'm from the Computer Science Course at UNESC.
 - 📔 Studying Full Stack Web Development.
+- 💻 Dev Junior in React TypeScript.
 - 💬 "See things differently, make your mark..."
 - ⚡ Enthusiast in Technology and Games.
+  ```
   
   ##
 
@@ -40,5 +45,5 @@
 <div> 
  
   ![Snake animation](https://github.com/douglasrosso/douglasrosso/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
