@@ -25,10 +25,10 @@
   ##
   
   ```
-- 🔭 Today I'm a student.
-- 🌱 I'm from the Computer Science Course at UNESC.
-- 📔 Studying Full Stack Web Development.
-- 💻 Dev Junior in React TypeScript.
+- 🔭 Software Engineer.
+- 🌱 Focus of dedication above all.
+- 📔 Improving my skills.
+- 💻 I'm from the Computer Science Course at UNESC.
 - 💬 "See things differently, make your mark..."
 - ⚡ Enthusiast in Technology and Games.
   ```
