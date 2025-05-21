@@ -1,11 +1,13 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/douglasrosso/9d3f9530889c203b5eb2e5e821fbae76/raw/7f6b7b22c08c74bc72b41d1cecf29e3cd2696627/githubcard.svg"/>
-<div align="left">
-<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Douglas Rosso</h1>
-<p> <img align="left" src="https://komarev.com/ghpvc/?username=douglasrosso&color=red" alt="Profile views" /> </p>
-<div>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=douglasrosso&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<a href="https://www.instagram.com/rosso_douglx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglas-martignago-rosso-529588127" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Olá, meu nome é Douglas Rosso!
+<p>Engenheiro de software</p>
+
+<a href='https://github.com/douglasrosso' target='_blank'>
+  <img src="https://img.shields.io/static/v1?label=Overview&message=DOUGLASROSSO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/douglas-martignago-rosso-529588127" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   </div>
 <div style="display: inline_block"><br>
@@ -25,17 +27,18 @@
   ##
   
   ```
-- 🔭 Software Engineer.
-- 🌱 Focus of dedication above all.
-- 📔 Improving my skills.
-- 💻 I'm from the Computer Science Course at UNESC.
-- 💬 "See things differently, make your mark..."
-- ⚡ Enthusiast in Technology and Games.
+- 🔭 Engenheiro de Software.
+- 🌱 Foco na dedicação acima de tudo.
+- 📔 Aperfeiçoando minhas habilidades.
+- 💻 Sou do curso de Ciência da Computação da UNESC.
+- 💬 "Veja as coisas de forma diferente, deixe sua marca..."
+- ⚡ Entusiasta de Tecnologia e Games.
   ```
   
   ##
 
 <div align="left">
   <a href="https://github.com/douglasrosso">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=douglasrosso&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrosso&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrosso&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
